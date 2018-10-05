@@ -1,0 +1,10 @@
+C:\Users\lucas\source\repos\Trabalho\Trabalho\bin\Debug\Trabalho.exe.config
+C:\Users\lucas\source\repos\Trabalho\Trabalho\bin\Debug\Trabalho.exe
+C:\Users\lucas\source\repos\Trabalho\Trabalho\bin\Debug\Trabalho.pdb
+C:\Users\lucas\source\repos\Trabalho\Trabalho\obj\Debug\Trabalho.csprojAssemblyReference.cache
+C:\Users\lucas\source\repos\Trabalho\Trabalho\obj\Debug\Trabalho.Properties.Resources.resources
+C:\Users\lucas\source\repos\Trabalho\Trabalho\obj\Debug\Trabalho.csproj.GenerateResource.cache
+C:\Users\lucas\source\repos\Trabalho\Trabalho\obj\Debug\Trabalho.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\Trabalho\Trabalho\obj\Debug\Trabalho.exe
+C:\Users\lucas\source\repos\Trabalho\Trabalho\obj\Debug\Trabalho.pdb
+C:\Users\lucas\source\repos\Trabalho\Trabalho\obj\Debug\Trabalho.idade.resources
